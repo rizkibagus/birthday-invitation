@@ -1,5 +1,3 @@
-# README
-
 ## Project: Birthday Invitation Web Page
 
 ### Course Information
